@@ -1,0 +1,21 @@
+﻿  gpt_helper.c
+  json_parser.c
+C:\Program_design_training\V1版本-logo\SM_2\SM_2\gpt_helper.c(100,45): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  learning.c
+  main.c
+  statistics.c
+  tonyJSON.c
+C:\Program_design_training\V1版本-logo\SM_2\SM_2\tonyJSON.c(48,69): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Program_design_training\V1版本-logo\SM_2\SM_2\tonyJSON.c(49,69): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Program_design_training\V1版本-logo\SM_2\SM_2\tonyJSON.c(50,69): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Program_design_training\V1版本-logo\SM_2\SM_2\tonyJSON.c(51,69): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Program_design_training\V1版本-logo\SM_2\SM_2\tonyJSON.c(52,76): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Program_design_training\V1版本-logo\SM_2\SM_2\tonyJSON.c(280,69): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Program_design_training\V1版本-logo\SM_2\SM_2\tonyJSON.c(281,69): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Program_design_training\V1版本-logo\SM_2\SM_2\tonyJSON.c(282,69): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Program_design_training\V1版本-logo\SM_2\SM_2\tonyJSON.c(283,69): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Program_design_training\V1版本-logo\SM_2\SM_2\tonyJSON.c(284,76): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  word.c
+  wordbookload.c
+  正在生成代码...
+  SM_2.vcxproj -> C:\Program_design_training\V1版本-logo\SM_2\x64\Debug\SM_2.exe

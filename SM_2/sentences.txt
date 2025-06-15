@@ -1,0 +1,2 @@
+混合集成电路则由两种或者多种集成电路组合而成，或者由一个集成电路与多个分立元件组合而成。|A hybrid IC consists of a combination of two or more IC types or an IC with some discrete elements.
+锗被广泛用作早期分立器件中的半导体|Germanium was widely used as a semiconductor in some of the early discrete devices

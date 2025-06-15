@@ -1,0 +1,42 @@
+predecessor	前任;前辈	0	1	2.50	1	1
+impetus	推动;促进;推动力	0	1	2.50	1	1
+inconsequential	不合理的;不重要的	0	1	2.50	1	1
+phenomenal	异常的;杰出的;惊人的	0	1	2.50	1	1
+propel	推动;激励	0	1	2.50	1	1
+excel	胜过;优于	0	1	2.50	1	1
+iteration	重复;重述;重复的(事)	0	1	2.50	1	1
+fierce	凶猛的;激烈的;暴躁的	0	1	2.50	1	1
+proficiency	精通;熟练	0	1	2.50	1	1
+modest	谦虚的;谨慎的;适度的	1	1	1.80	13	14
+sophistication	世故的;复杂的	0	1	2.50	1	1
+jargon	行话;术语	0	1	2.50	1	1
+interchangeably	可交换地;可替换地	0	1	2.50	1	1
+inherent	内在的;固有的;与生俱来的	0	1	2.50	1	1
+permissible	可允许的	0	1	2.50	1	1
+repetitive	重复的;反复性的	0	1	2.50	1	1
+tedious	冗长的;乏味无味的	0	1	2.50	1	1
+rationale	基本原理;理论	0	1	2.50	1	1
+twofold	两倍的;两重的	0	1	2.50	1	1
+versatile	多才多艺的;万用的	0	1	2.50	1	1
+premise	前提	0	1	2.50	1	1
+deterioration	恶化;劣化	0	1	2.50	1	1
+vacuum tubes	真空管	0	1	2.50	1	1
+photolithography	光刻;光刻法	0	1	2.50	1	1
+integrated circuit	集成电路	0	1	2.50	1	1
+monolithic	单片的	0	1	2.50	1	1
+hybrid IC	混合集成电路	0	1	2.50	1	1
+wafer	晶片;晶圆	1	1	2.50	12	13
+chip	芯片	0	1	2.50	1	1
+yield	成品率	0	1	2.50	1	1
+feature size	特征尺寸	0	1	2.50	1	1
+pitch	节距	0	1	2.50	1	1
+angstrom	埃(长度单位1Å=10nm)Å	0	1	2.50	1	1
+power dissipation	功耗	0	1	2.50	1	1
+active substrates	半导体材料衬底	0	1	2.50	1	1
+inert substrates	惰性材料衬底	0	1	2.50	1	1
+specifications	规格	0	1	2.50	1	1
+layout	版图	0	1	2.50	1	1
+parasitic effects	寄生效应	0	1	2.50	1	1
+circuit schematic	电路图	0	1	2.50	1	1
+breadboard	面包板;实验板	0	1	2.50	1	1
+transconductance	跨导	0	1	2.50	1	1
